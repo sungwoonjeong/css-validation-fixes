@@ -1,12 +1,13 @@
-html{
-      background-color: #ccc;
-      font-family: sans-serif;
+html {
+  background-color: #ccc;
+  font-family: sans-serif;
 }
 
 header h1 {
   font-size: 1.5rem;
 }
-  article p {
+
+article p {
   font-style: italic;
-color: #666;
+  color: #666;
 }
